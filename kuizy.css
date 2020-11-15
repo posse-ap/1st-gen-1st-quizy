@@ -1,0 +1,15 @@
+.main {
+    width: 500px;
+}
+
+.font-19px{
+    font-size: 19px;
+}
+
+img {
+    width: 100%;
+}
+.choices {
+    border: 1px solid #cccccc;
+    padding: 7px;
+}
